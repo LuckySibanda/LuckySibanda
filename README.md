@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuckySibanda
-- 👀 I’m interested in growing local businesses visibility in the tech industry.
-- 🌱 I’m currently learning web development and how to be a 21 year old.
-- 💞️ I’m looking to collaborate on any project involving web dev
+- 👀 I’m interested in growing my skills and influence in the tech industry.
+- 🌱 I’m currently learning software engineering.
+- 💞️ I’m looking to collaborate on any project involving SE.
 - 📫 How to reach me, my email is sibandalucky02@gmail.com
 
 <!---
